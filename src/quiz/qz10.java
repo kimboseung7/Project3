@@ -11,8 +11,7 @@ public class qz10 {
 		int result1 = -5 + 3 * 10 /2; // 곱-나누기-합 순 --> 10
 		int x = 1;
 		int result2 = (x++) + 5;// 단항--산술 순  --> 7 (++x를 사용) 다음라인으로 넘어가는 순간 x가 2로 변함
-		System.out.println();
-		System.out.println();
+		//(x++)- x가 증가되기 전에 값을 사용
 	}
 
 }
